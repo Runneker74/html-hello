@@ -12,9 +12,9 @@
     }
     .Post {
     border: 2px solid red;
-    background-color: aqua;
+    background-color: whitesmoke;
     width: 500px;
-    height: 600px;
+    height: 650px;
     margin: 0px 30px 0px 30px;
     overflow: hidden;
    }
@@ -35,34 +35,88 @@
 #titulo1 {
     float: left;
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
     width: 80px;
     background: none;
-    font-size: 10px;
-    border: 2px solid red;
+    font-size: 8px;
+    border: 2px solid none;
 }
-.fa-brands fa-html5 {
+.icono5 {
     float: left;
     padding: 10px;
-    margin: 10px;
-    width: 80px;
+    margin: 5px;
+    width: 35px;
     background: none;
-    font-size: 10px;
-    border: 2px solid red;
+    font-size: 30px;
+    border: 2px solid none;
+}
+.iconoPuntos {
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    width: 20px;
+    background: none;
+    font-size: 25px;
+    border: 2px solid none;
+}
+.footer {
+    border: 2px solid none;
+    background: whitesmoke;
+    width: 500px;
+    overflow: hidden;
+    height: 60px;
+
+}
+.heart{
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    width: 35px;
+    background: none;
+    font-size: 25px;
+    border: 2px solid none;
+}
+.comment{
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    width: 35px;
+    background: none;
+    font-size: 25px;
+    border: 2px solid none;
+}
+.plane {
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    width: 35px;
+    background: none;
+    font-size: 25px;
+    border: 2px solid none;
 }
 
-#piedepagina1 {
+.mark {
+    float: right;
+    padding: 10px;
+    margin: 5px;
+    width: 35px;
+    background: none;
+    font-size: 25px;
+    border: 2px solid none;
+}
+
+.piedepagina1 {
     padding: 20px 5px 20px 5px;
     width: 500px;
     background: whitesmoke;
-    border-style: ridge;
+    
 
 }
 
-#piedepagina2 {
-    padding: 20px 5px 20px 5px;
+.piedepagina2 {
+    padding: 20px 3px 20px 3px;
     width: 500px;
     background: whitesmoke;
-    border-style: ridge;
+    
 
 }
