@@ -6,8 +6,9 @@
 
 
     body {
-        background: whitesmoke;
+        background: black;
         font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 20px 100px 20px 0px;
 
     }
     .Post {
@@ -107,16 +108,20 @@
 
 .piedepagina1 {
     padding: 20px 5px 20px 5px;
-    width: 500px;
+    width: 480px;
     background: whitesmoke;
+    margin-left: 10px;
+    margin-right: 10px;
     
 
 }
 
 .piedepagina2 {
-    padding: 20px 3px 20px 3px;
-    width: 500px;
+    padding: 10px 3px 10px 3px;
+    width: 460px;
     background: whitesmoke;
-    
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
 
 }
